@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 💬 Não tenho muito a dizer as vezes..
 __________________________________________________________________________________________________________________________
 
-https://media.tenor.com/8iq0Pro1H0cAAAAi/misinformation-fake-news.gif
+![image](https://media.tenor.com/8iq0Pro1H0cAAAAi/misinformation-fake-news.gif)
 
 
 I hope you like me!! :D
