@@ -8,8 +8,7 @@ ________________________________________________________________________________
 - 🦖 Estudante do Senac no 1 ano do segundo grau.
 __________________________________________________________________________________________________________________________
 
-![image](https://media.tenor.com/FbTWLMuy8dgAAAAj/lcv-80s-computer.gif) ![image](https://static.wikia.nocookie.net/pizzaria-freddy-fazbear/images/0/0b/Baby_Sprite_Idle.gif/revision/latest?cb=20161011172021&path-prefix=pt-br) ![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif)
-
+![image](https://media.tenor.com/FbTWLMuy8dgAAAAj/lcv-80s-computer.gif) ![image](https://static.wikia.nocookie.net/pizzaria-freddy-fazbear/images/0/0b/Baby_Sprite_Idle.gif/revision/latest?cb=20161011172021&path-prefix=pt-br) ![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif) ![image](https://media.tenor.com/_290-NnKYhwAAAAM/sans-shrug.gif)
 
 I hope you like me!! :D
 
