@@ -7,6 +7,9 @@ ________________________________________________________________________________
 - 💬 Não tenho muito a dizer as vezes..
 __________________________________________________________________________________________________________________________
 
-![image](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/1c182bd1-c0c8-44b7-b938-7337f6928b2e)
+![image](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/91ad2806-9742-4e2a-91e0-3f1298da89a3) 
+
+I hope you like me!! :D
+
 
 
