@@ -7,5 +7,6 @@ ________________________________________________________________________________
 - 💬 Não tenho muito a dizer as vezes..
 __________________________________________________________________________________________________________________________
 
-![image](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/f666b78f-8b51-4e26-9675-5ef61a3197b9)
+![image](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/1c182bd1-c0c8-44b7-b938-7337f6928b2e)
+
 
