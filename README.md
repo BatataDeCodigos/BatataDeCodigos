@@ -7,7 +7,8 @@ ________________________________________________________________________________
 - 💬 Não tenho muito a dizer as vezes..
 __________________________________________________________________________________________________________________________
 
-![gif](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/f1b24d65-fc21-4da3-8b0b-d134f735101b)
+https://media.tenor.com/8iq0Pro1H0cAAAAi/misinformation-fake-news.gif
+
 
 I hope you like me!! :D
 
