@@ -9,12 +9,12 @@
 header h1{
     font-size: 50px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    padding-left: 475px;
-    padding-top: 100px;
-    color: ghostwhite;
+    padding-left: 440px;
+    padding-top: 200px;
+    color: rgb(241, 140, 0);
     text-shadow: 8px 8px black;
     display: block;
-    background-image: url(mac.png);
+    background-image: url(https://64.media.tumblr.com/b4cc31f7b6622ae008b9421091bbbfdf/21af4e1bd2d811b4-e9/s640x960/3baa38ebf007ae4c2f34a8fcd9e8b9e379fb1cf3.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 450px;
@@ -43,7 +43,7 @@ main article h2{
 }
 
 main article img{
-    padding-left: 150px;
+    padding-left: 90px;
 
 }
 
@@ -64,8 +64,41 @@ footer{
 
 #separação{
     width: 100%;
-    height: 20px;
+    height: 30px;
     display: block;
     background-color: black;
     margin-bottom: 10px;
+}
+
+
+#tmnc{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+
+#tmnc img{
+    
+    margin-top: 40px;
+
+}
+
+#tmnc p{
+    
+    text-align: center;
+}
+
+
+body article h3{
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+main article img{
+    padding-left: 900px;
+    
 }
