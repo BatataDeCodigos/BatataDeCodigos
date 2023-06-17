@@ -99,6 +99,25 @@ body article h3{
 
 
 main article img{
-    padding-left: 900px;
+    padding-left: 110px;
     
+}
+
+article #transparente h2{
+    background-color: transparent;
+    color: black;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+article #nuvem img{
+    height: 300px;
+    width: 500px;
+    margin-bottom: 100px;
+}
+
+article h4{
+    margin-bottom: 15px;
+    margin-top: 100px;
 }
