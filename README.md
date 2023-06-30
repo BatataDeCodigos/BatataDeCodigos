@@ -14,7 +14,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 ![image](https://media.tenor.com/FbTWLMuy8dgAAAAj/lcv-80s-computer.gif) ![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif) 
-![video](https://www.youtube.com/watch?v=ZWRh5hz1ntI)
+![audio](https://www.youtube.com/watch?v=ZWRh5hz1ntI)
 __________________________________________________________________________________________________________________________
 I hope you like me!! :D
 
