@@ -9,7 +9,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------------------------------------
 - 💬 Não tenho muito a dizer as vezes.. Penso demais. - 🦖 Estudante do Senac no 1 ano do segundo grau.
 __________________________________________________________________________________________________________________________
-![image](https://custom-doodle.com/wp-content/uploads/doodle/fnf-girlfriend-sitting-on-speakers/fnf-girlfriend-sitting-on-speakers-doodle.gif)![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif) ![image](https://static.wikia.nocookie.net/fridaynightfunking/images/5/56/Funsizedsarvidle.gif/revision/latest?cb=20210727074933) ![image](https://static.wikia.nocookie.net/fridaynightfunking/images/1/1c/FunRuvAnim.gif/revision/latest/thumbnail/width/360/height/360?cb=20210411151619)
+![image](https://static.wikia.nocookie.net/fridaynightfunkin/images/b/b7/Stereo_boom.gif/revision/latest/scale-to-width-down/250?cb=20221124005453)![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif) ![image](https://static.wikia.nocookie.net/fridaynightfunking/images/5/56/Funsizedsarvidle.gif/revision/latest?cb=20210727074933) ![image](https://static.wikia.nocookie.net/fridaynightfunking/images/1/1c/FunRuvAnim.gif/revision/latest/thumbnail/width/360/height/360?cb=20210411151619)
 __________________________________________________________________________________________________________________________
 
 
