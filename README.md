@@ -9,7 +9,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------------------------------------
 - 💬 Não tenho muito a dizer as vezes.. Penso demais. - 🦖 Estudante do Senac no 1 ano do segundo grau.
 __________________________________________________________________________________________________________________________
-![image](https://media.tenor.com/FbTWLMuy8dgAAAAj/lcv-80s-computer.gif) ![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif) ![image](https://pa1.aminoapps.com/6361/ff52014b116b2f9e747757dbe898cff6933ec21b_00.gif)
+![image](https://media.tenor.com/FbTWLMuy8dgAAAAj/lcv-80s-computer.gif) ![image](https://media.tenor.com/8v-QEoJksxMAAAAj/eevee-dance.gif)
 __________________________________________________________________________________________________________________________
 
 
