@@ -17,7 +17,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------------------------------------
 - 🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.
 __________________________________________________________________________________________________________________________
-![image](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/dfb766a4-ef31-447d-b852-d37e7b5643fe)
+![gif](https://github.com/BatataDeCodigos/BatataDeCodigos/assets/134552777/dfb766a4-ef31-447d-b852-d37e7b5643fe)
 
 
 
