@@ -1,6 +1,6 @@
 # ☁ !Hello_Little_Nightmare_Life! ☁ 
 __________________________________________________________________________________________________________________________
-- 💖 Idade: 16 aninhos~
+- 💖 Age; 16years old. - My presence is like Nothing.. - 💬 I think so much of boring things. I'm a student of Senac.
 -------------------------------------------------------------------------------------------------------------------------
 - You're the light, you're the night
 - You're the colour of my blood
@@ -17,11 +17,9 @@ ________________________________________________________________________________
 - Touch me like you do, ta-ta-touch me like you do
 - What are you waiting for?
 -------------------------------------------------------------------------------------------------------------------------
-- 💬 Não tenho muito a dizer as vezes.. Penso demais. - 🦖 Estudante do Senac no 1 ano do segundo grau.
---------------------------------------------------------------------------------------------------------------------------
 - 📚 Gosto de estudar técnico e sei falar em inglês. (Evoluindo)
 --------------------------------------------------------------------------------------------------------------------------
-- 🍔 Já podi Ao-Mossar? - 💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.
+- 💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.
 --------------------------------------------------------------------------------------------------------------------------
 - 🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.
 __________________________________________________________________________________________________________________________
