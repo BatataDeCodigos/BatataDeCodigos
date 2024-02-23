@@ -2,9 +2,20 @@
 __________________________________________________________________________________________________________________________
 - 💖 Idade: 16 aninhos~
 -------------------------------------------------------------------------------------------------------------------------
-- 🌱 Amigos: Tuga, Lipe, Jao, Gui, Caíquezão e Tramontas. (Se eu quiser.)
--------------------------------------------------------------------------------------------------------------------------
-- 🐶 Tenho um Doguinho, sou muito "paia" com minha família. - 🤔 Adoro estudos de arte e programação.
+- You're the light, you're the night
+- You're the colour of my blood
+- You're the cure, you're the pain
+- You're the only thing I wanna touch
+- Never knew that it could mean so much, so much
+- You're the fear, I don't care
+- Cause I've never been so high
+- Follow me through the dark
+- Let me take you past our satellites
+- You can see the world you brought to life, to life
+- So love me like you do, la-la-love me like you do
+- Love me like you do, la-la-love me like you do
+- Touch me like you do, ta-ta-touch me like you do
+- What are you waiting for?
 -------------------------------------------------------------------------------------------------------------------------
 - 💬 Não tenho muito a dizer as vezes.. Penso demais. - 🦖 Estudante do Senac no 1 ano do segundo grau.
 --------------------------------------------------------------------------------------------------------------------------
