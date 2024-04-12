@@ -1,6 +1,6 @@
 # ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ 
 __________________________________________________________________________________________________________________________
-- 💖 Age; 16years old. - My presence is like Nothing.. - 💬 I think so much of boring things. I'm a student of Senac.
+- 💖 Age; 16years old. I'm a student of Senac RS, and I'm busy right now,  please.. Don't call me.
 -------------------------------------------------------------------------------------------------------------------------
 - You're the light, you're the night
 - You're the colour of my blood
