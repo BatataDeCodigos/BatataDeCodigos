@@ -2,7 +2,7 @@
 __________________________________________________________________________________________________________________________
 - 💖 Age; 17y, provavelmente estou ocupado(a) por agora... 
 - 📌 Estudante do SENAC RS distrito criativo.
-- 🌆 A vida não é vida se você não vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.
+- 🌆 A vida não é vida se você vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.
 - 🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.
 - ⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. 
 __________________________________________________________________________________________________________________________
