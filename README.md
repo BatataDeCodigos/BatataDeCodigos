@@ -1,6 +1,12 @@
 # ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ 
 __________________________________________________________________________________________________________________________
-- 💖 Age; 17years old. I'm a student of Senac RS, and I'm probably busy right now...
+- 💖 Age; 17y, provavelmente estou ocupado(a) por agora... 
+- 📌 Estudante do SENAC RS distrito criativo.
+- 🌆 A vida não é vida se você não vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.
+- 🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.
+- ⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. 
+__________________________________________________________________________________________________________________________
+![image](https://64.media.tumblr.com/4474266b97efe75e59e97b0d586b72c2/5e619dd1486c6fd7-9c/s1280x1920/af09e1716d107193736c79045ce848b9de48c25b.gifv)
 -------------------------------------------------------------------------------------------------------------------------
 - You're the light, you're the night
 - You're the colour of my blood
