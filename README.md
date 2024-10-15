@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.
 - ⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. 
 __________________________________________________________________________________________________________________________
-![image](https://64.media.tumblr.com/4474266b97efe75e59e97b0d586b72c2/5e619dd1486c6fd7-9c/s1280x1920/af09e1716d107193736c79045ce848b9de48c25b.gifv)
+![image](https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif)
 -------------------------------------------------------------------------------------------------------------------------
 - You're the light, you're the night
 - You're the colour of my blood
