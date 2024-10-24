@@ -1,6 +1,7 @@
 <h1 style="text-align: center;"> ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ </h1>
 <div id=biog>
 ______________________________________________________________________________________________________________________________________________________
+
 <p align="center">💖 17y, provavelmente estou ocupado(a) por agora... </p>
 
 <p align="center">📌 Estudante do SENAC RS distrito criativo.</p>
