@@ -1,14 +1,14 @@
-#                                           ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ 
-<div id=biog style="text-align: center; float-left:40px;">
-<p>                         💖 Age; 17y, provavelmente estou ocupado(a) por agora... </p>
+                                            # ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ 
+<div id=biog>
+<p>💖 Age; 17y, provavelmente estou ocupado(a) por agora... </p>
 
-<p>                               📌 Estudante do SENAC RS distrito criativo.</p>
+<p>📌 Estudante do SENAC RS distrito criativo.</p>
 
-<p>     🌆 A vida não é vida se você vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.</p>
+<p>🌆 A vida não é vida se você vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.</p>
 
-<p>    🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.</p>
+<p>🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.</p>
 
-<p>                 ⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. </p>
+<p>⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. </p>
 </div>
 -------------------------------------------------------------------------------------------------------------------------
 <div id="imag" style="text-align:center;">
@@ -17,12 +17,11 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------
-- 📚 Gosto de estudar técnico e sei falar em inglês. (Evoluindo)
+📚 Gosto de estudar técnico e sei falar em inglês. (Evoluindo)
 --------------------------------------------------------------------------------------------------------------------------
-- 💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.
+💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.
 --------------------------------------------------------------------------------------------------------------------------
-- 🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.
-__________________________________________________________________________________________________________________________
+🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas._________________________________________________________________________________________________________________________
 <img src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif">
 
 
