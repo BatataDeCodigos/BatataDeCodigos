@@ -1,5 +1,6 @@
 <h1 style="text-align: center;"> ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ </h1>
 <div id=biog>
+_______________________________________________________________________________________________________________________________________
 <p align="center">💖 17y, provavelmente estou ocupado(a) por agora... </p>
 
 <p align="center">📌 Estudante do SENAC RS distrito criativo.</p>
@@ -21,8 +22,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.</p>
 _____________________________________________________________________________________________________________________________________
-<img src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif" align="center">
-
+<p  align="center">
+<img src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif">
+</p>
 
 __________________________________________________________________________________________________________________________
 
