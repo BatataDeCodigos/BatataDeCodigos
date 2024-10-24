@@ -11,7 +11,7 @@
 <p>                 ⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. </p>
 </div>
 -------------------------------------------------------------------------------------------------------------------------
-<div id="imag" style="text-align:center;">
+<div id="imag" style="text-align: center;">
 <img src="https://64.media.tumblr.com/273e48159243483a123f127ed79656d1/88844ae8be4d1091-9c/s540x810/739d22f7e20649a0694419eaa39a0f9b4c5bac59.gifv">
 </div>
 -------------------------------------------------------------------------------------------------------------------------
