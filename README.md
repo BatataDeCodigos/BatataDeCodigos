@@ -15,13 +15,13 @@
 <img src="https://64.media.tumblr.com/273e48159243483a123f127ed79656d1/88844ae8be4d1091-9c/s540x810/739d22f7e20649a0694419eaa39a0f9b4c5bac59.gifv">
 </div>
 -------------------------------------------------------------------------------------------------------------------------
-
 -------------------------------------------------------------------------------------------------------------------------
-📚 Gosto de estudar técnico e sei falar em inglês. (Evoluindo)
+<p>📚 Gosto de estudar técnico de programação e sei falar em inglês.</p>
 --------------------------------------------------------------------------------------------------------------------------
-💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.
+<p>💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.</p>
 --------------------------------------------------------------------------------------------------------------------------
-🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas._________________________________________________________________________________________________________________________
+<p>🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.</p>
+_________________________________________________________________________________________________________________________
 <img src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif">
 
 
