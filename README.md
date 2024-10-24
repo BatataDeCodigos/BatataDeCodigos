@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> ☁ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓑𝓲𝓸 ☁ </h1>
 <div id=biog>
-<p>💖 Age; 17y, provavelmente estou ocupado(a) por agora... </p>
+<p>💖 17y, provavelmente estou ocupado(a) por agora... </p>
 
 <p>📌 Estudante do SENAC RS distrito criativo.</p>
 
@@ -11,9 +11,7 @@
 <p>⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. </p>
 </div>
 -------------------------------------------------------------------------------------------------------------------------
-<div id="imag" style="text-align: center;">
-<img src="https://64.media.tumblr.com/273e48159243483a123f127ed79656d1/88844ae8be4d1091-9c/s540x810/739d22f7e20649a0694419eaa39a0f9b4c5bac59.gifv">
-</div>
+<img src="https://64.media.tumblr.com/273e48159243483a123f127ed79656d1/88844ae8be4d1091-9c/s540x810/739d22f7e20649a0694419eaa39a0f9b4c5bac59.gifv" style="text-align: center;">
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 <p>📚 Gosto de estudar técnico de programação e sei falar em inglês.</p>
