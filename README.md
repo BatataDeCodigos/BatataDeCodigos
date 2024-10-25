@@ -2,7 +2,7 @@
 <div id=biog>
 __________________________________________________________________________________________________________________________________________________
 
-<p align="center">💖 17y, provavelmente estou ocupado(a) por agora... </p>
+<p align="center">🪶 17 anos e cansado(a). </p>
 
 <p align="center">📌 Estudante do SENAC RS distrito criativo.</p>
 
