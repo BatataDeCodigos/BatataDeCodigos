@@ -4,25 +4,35 @@
 <br>
 <br>
 
-<p align="center">🪶 17 anos e cansado(a). </p>
+<p align="center">❤️‍🩹 17y and tired.</p>
 
-<p align="center">📌 Estudante do SENAC RS distrito criativo.</p>
+<p align="center">📌 Student of SENAC RS distrito criativo.</p>
 
-<p align="center">🌆 A vida não é vida se você vive para sobreviver. O trabalho não é trabalho se você trabalha no que gosta.</p>
+<p align="center">🌆 Can't hear words in the sentences of the silence.</p>
 
-<p align="center">🏳️ Antes da esperança, a determinação é a última a te largar, pois mesmo cansado(a), você corre até terminar.</p>
+<p align="center">🏳️ Don't waste time surviving, waste time living.</p>
 
-<p align="center">⏰ O tempo cronometra a sua vida, enquanto a vida cronometra o seu tempo. </p>
+<p align="center">⏰ Time clocks your life, and life clocks your time. </p>
 </div>
+<br>
+<br>
+<br>
 _________________________________________________________________________________________________________________________________________________
 <p align="center">
 <img src="https://media1.tenor.com/m/NvhNx-td-1UAAAAd/frieren-hd.gif" >
 </p>
------------------------------------------------------------------------------------------------------------------------------------------------------
-<p>📚 Gosto de estudar técnico de programação e sei falar em inglês.</p>
-<p>💻 Jogo apenas jogos dos meus interesses e nunca gasto dinheiro com isso, é desperdício.</p>
-<p>🎨 Amo artes diversas, são tão expressivas e bonitas em diferentes perspectivas.</p>
+_________________________________________________________________________________________________________________________________________________
+<br>
+<br>
+<br>
+
+<p>📚 I love study programming technician, and I'm brazilian, I just know speak in english.</p>
+<p>💻 I only play games that I like, and never waste money on it.</p>
+<p>🎨 Love so much arts, they're have their meanings and feelings.</p>
 ___________________________________________________________________________________________________________________________________________________
+<br>
+<br>
+<br>
 <h3  align="center">
 Tools and languages that I use;
 </h3>
