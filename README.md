@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> ☁                                             Welcome to the profile ☁ </h1>
+<h1 style="text-align: center;"> ☁                                             <profile></profile> ☁ </h1>
 <div id=biog>
 _________________________________________________________________________________________________________________________________________________
 
