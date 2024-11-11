@@ -29,7 +29,7 @@ ________________________________________________________________________________
 <br>
 <br>
 
-<p>📚 I love study programming technician, and I'm brazilian, I just know speak in english.</p>
+<p>📓 I love study programming technician, and I'm brazilian, I just know speak in english.</p>
 <p>💻 I only play games that I like, and never waste money on it.</p>
 <p>🎨 Love so much arts, they're have their meanings and feelings.</p>
 ___________________________________________________________________________________________________________________________________________________
@@ -42,5 +42,21 @@ Tools and languages that I use;
 <div id="icons" style="float-left;" align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px;"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px;"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px;"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_macos_bigsur_icon_190140.png" style="width: 70px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px;"><img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" style="width: 70px; height:70px;"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 70px; height:70px;">
 </div>
-
+<br>
+<br>
+<br>
+<br>
+___________________________________________________________________________________________________________________________________________________
+<br>
+<br>
+<br>
+<div id="nuvem" align="center">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/026/774/603/small/cloud-with-ai-generated-free-png.png" style="height:200px; width:400px;">
+</div>
+<br>
+<br>
+<div id="pontinhos" align="center">
+<h4>🇹​🇭​🇪​ 🇴​🇳​🇱​🇾​ 🇼​🇦​🇾​ 🇾​🇴​🇺​ 🇨​🇦​🇳​ 🇨​🇴​🇳​🇹​🇮​🇳​🇺​🇪​, 🇮​🇸​ 🇹​🇭​🇪​ 🇼​🇦​🇾​ 🇴​🇫​ 🇾​🇴​🇺​🇷​ 🇭​🇪​🇦​🇷​🇹​</h4>
+<h4>. . .</h4>
+</div>
 
