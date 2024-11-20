@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p align="center">❤️‍🩹 17y and tired.</p>
+<p align="center">❤️‍🩹 17y and tired XD</p>
 
 <p align="center">📌 Student of SENAC RS distrito criativo.</p>
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 <br>
 <br>
 <p align="center">
-<img src="https://i.pinimg.com/originals/c7/db/ca/c7dbca287880bc8b49ff0980407e6c73.gif" >
+<img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" >
 </p>
 _________________________________________________________________________________________________________________________________________________
 <br>
