@@ -29,7 +29,7 @@ ________________________________________________________________________________
 <br>
 <br>
 
-<p>📓 I love study programming technician, and I'm brazilian, I just know speak in english.</p>
+<p>📓 I love study programming technician, and I'm brazilian, but I'm learning how to speak in english.</p>
 <p>💻 I only play games that I like, and never waste money on it.</p>
 <p>🎨 Love so much arts, they're have their meanings and feelings.</p>
 _________________________________________________________________________________________________________________________________________________
