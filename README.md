@@ -24,8 +24,13 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true" style="width:470px; height:30px"></div>
+<div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true" style="width:470px; height:30px; margin-bottom:20px;">
+  <img src="https://media0.giphy.com/media/U7VI2RFA6VcH2Gm7H9/giphy.gif?cid=6c09b9526y42pqyamin7xx6x2ytnokjew3z89ovmw95az3sy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-top:25px; height: 70px; width:70px;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/kuromi-gif-4.gif" style="margin-top:25px; height: 70px; width:70px;">
+</div>
+
 <br>
+
 ______________________________________________________________________________________________________________________________________________
 <br>
 <br>
