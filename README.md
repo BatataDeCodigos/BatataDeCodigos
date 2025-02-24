@@ -19,11 +19,12 @@ ________________________________________________________________________________
 <p align="center">
 <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" >
 </p>
+<br>
 ______________________________________________________________________________________________________________________________________________
 <br>
 <br>
 <br>
-<div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true"></div>
+<div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true" style="width:470px; height:30px"></div>
 <br>
 ______________________________________________________________________________________________________________________________________________
 <br>
