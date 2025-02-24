@@ -3,7 +3,6 @@
 <br>
 <br>
 <br>
-
 <p align="center">❤️‍🩹 17 to 18 y</p>
 
 <p align="center">📌 I'm a student of SENAC RS distrito criativo in Brazil.</p>
@@ -24,8 +23,7 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-
-<p>📓 I love study programming technician, and I'm brazilian, but I'm learning how to speak in english.</p>
+<img src=""
 <br>
 _________________________________________________________________________________________________________________________________________________
 <br>
@@ -44,8 +42,15 @@ Tools and languages that I use;
 _________________________________________________________________________________________________________________________________________________
 <br>
 <br>
-<img src="">
+<div id="textooo" align="center">
+<img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text.gif?raw=true" style="height: 30px; width: 570px;"></div>
 <br>
+<br>
+<h4 align="center">. . .</h4>
+<br>
+<br>
+
+_________________________________________________________________________________________________________________________________________________
 <div id="nuvem" align="center">
 <img src="https://static.vecteezy.com/system/resources/thumbnails/026/774/603/small/cloud-with-ai-generated-free-png.png" style="height:200px; width:400px;">
 </div>
