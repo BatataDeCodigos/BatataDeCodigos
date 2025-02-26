@@ -24,6 +24,23 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
+<h4 align="center">. . .</h4>
+<br>
+<br>
+<br>
+<div class="ProjectsIveWorkedOn" align="center">
+  <h3>
+    Projects in my years learning how to program
+    <p>______________</p>
+  </h3>
+    <p> AR project: Aumented Reality with accessibility for disabled people. (2024) </p>
+   <p> Site for physical education (2023) </p>
+    <p> Infernal's website (2023 - ????/ And it's for my internet friends) </p>
+   <p> My own site (I'll never finish it...) </p>
+</div>
+<br>
+<br>
+<br>
 <div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true" style="width:470px; height:30px; margin-bottom:20px;">
   <img src="https://media0.giphy.com/media/U7VI2RFA6VcH2Gm7H9/giphy.gif?cid=6c09b9526y42pqyamin7xx6x2ytnokjew3z89ovmw95az3sy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-top:25px; height: 70px; width:70px;">
   <img src="https://www.gifcen.com/wp-content/uploads/2023/05/kuromi-gif-4.gif" style="margin-top:25px; height: 70px; width:70px;">
@@ -36,7 +53,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <h3  align="center">
-Tools and languages that I use;
+Tools and languages
+  <p>____________</p>
 </h3>
 <div id="icons" style="float-left;" align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px;"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px;"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px;"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 70px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px;"><img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" style="width: 70px; height:70px;"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 70px; height:70px;"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" style="width: 70px; height:70px;"><img src="https://cdn-1.webcatalog.io/catalog/portugol-webstudio/portugol-webstudio-icon-unplated.png?v=1714775521095" style="width: 70px; height:70px;">
