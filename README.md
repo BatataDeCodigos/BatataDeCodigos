@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> ☁ 🇭​🇪​🇱​🇱​🇴​_🇹​🇭​🇪​🇷​🇪​_🇼​🇴​🇷​🇱​🇩​_:) ☁ </h1>
+<h1 style="text-align: center;"> ☁ 🇭​ 🇪​ 🇱​ 🇱​ 🇴 ​_ 🇹​ 🇭​ 🇪​ 🇷​ 🇪​ _ 🇼​ 🇴​ 🇷​ 🇱​ 🇩​ ☁ </h1>
 <div id=biog>
 <br>
 <br>
