@@ -3,11 +3,12 @@
 <br>
 <br>
 <br>
-<p align="center">❤️‍🩹 17 to 18 y</p>
-
+<p align="center"> 17 to 18 y</p>
+<p align="center">❤️‍🩹</p>
 <p align="center">📌 I'm a student of SENAC RS distrito criativo in Brazil.</p>
-
+<p align="center">📌</p>
 <p align="center">⏰ Time clocks your life, and life clocks your time. </p>
+  <p align="center">⏰</p>
 </div>
 <br>
 <br>
