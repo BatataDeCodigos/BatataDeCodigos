@@ -31,8 +31,8 @@ ________________________________________________________________________________
 <br>
 <div class="ProjectsIveWorkedOn" align="center">
   <h3>
-    Projects in my years learning how to program
-    <p>______________</p>
+    The projects I've participating
+    <p>________________________________________________________</p>
   </h3>
     <p> AR project: Aumented Reality with accessibility for disabled people. (2024) </p>
    <p> Site for physical education (2023) </p>
