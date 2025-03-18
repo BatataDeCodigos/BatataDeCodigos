@@ -3,11 +3,11 @@
 <br>
 <br>
 <br>
-<p align="center"> 17 to 18 y</p>
+<p align="center">17 to 18 y</p>
 <p align="center">❤️‍🩹</p>
-<p align="center">📌 I'm a student of SENAC RS distrito criativo in Brazil.</p>
+<p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
 <p align="center">📌</p>
-<p align="center">⏰ Time clocks your life, and life clocks your time. </p>
+<p align="center">Time clocks your life, and life clocks your time. </p>
   <p align="center">⏰</p>
 </div>
 <br>
@@ -34,10 +34,12 @@ ________________________________________________________________________________
     The projects I've participating
     <p>________________________________________________________</p>
   </h3>
+  <div id="bordinha" style="border-radius: 3px solid whitesmoke;">
     <p> AR project: Aumented Reality with accessibility for disabled people. (2024) </p>
    <p> Site for physical education (2023) </p>
     <p> Infernal's website (2023 - ????/ And it's for my internet friends) </p>
    <p> My own site (I'll never finish it...) </p>
+   </div>
 </div>
 <br>
 <br>
