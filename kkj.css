@@ -122,3 +122,9 @@ article h4{
     margin-top: 100px;
 }
  
+#icons {
+
+    display: list-item;
+    list-style: none;
+
+}
