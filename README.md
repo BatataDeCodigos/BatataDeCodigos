@@ -1,4 +1,4 @@
-<h1 align="center"> ☁ You'll never be alone ☁ </h1>
+<h1 align="center"> ☁ Theres a shadown on the wall, stay calm. ☁ </h1>
 <div id=biog>
 <br>
 <br>
@@ -7,7 +7,7 @@
 <p align="center" style="font-size:20px;">❤️‍🩹</p>
 <p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
 <p align="center" style="font-size:20px;">📌</p>
-<p align="center">Time clocks your life, and life clocks your time. </p>
+<p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
   <p align="center" style="font-size:20px;">⏰</p>
 </div>
 <br>
