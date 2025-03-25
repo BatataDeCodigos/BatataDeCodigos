@@ -1,4 +1,4 @@
-<h1 align="center"> ☁ NO_ONE_WILL_NOT_SAY_AS_IT_WAS ☁ </h1>
+<h1 align="center"> ☁ You'll never be alone ☁ </h1>
 <div id=biog>
 <br>
 <br>
