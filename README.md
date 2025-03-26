@@ -1,4 +1,4 @@
-<h1 align="center"> ☁ Theres a shadown on the wall, stay calm. ☁ </h1>
+<h1 align="center"> ☁ Theres a shadow on the wall, stay calm. ☁ </h1>
 <div id=biog>
 <br>
 <br>
