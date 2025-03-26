@@ -123,9 +123,16 @@ article h4{
 }
  
 
-#icons img{
+#icons{
 
     display: list-item;
-    
+
+}
+
+#icons img{
+
+    float: left;
+    display: list-item;
+    list-style: none;
 
 }
