@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="kkj.css">
+  <title>Readme of a fnaf fan <3</title>
+</head>
+<body>
 <h1 align="center"> ☁ NO ONE WILL NOT SAY AS IT WAS... ☁ </h1>
 <div id=biog>
 <br>
@@ -59,7 +68,7 @@ ________________________________________________________________________________
 Tools and languages
   <p>____________</p>
 </h3>
-<div id="icons" align="center">
+<div id="icons">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px;"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px;"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px;"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 70px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px;"><img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" style="width: 70px; height:70px;"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 70px; height:70px;"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" style="width: 70px; height:70px;"><img src="https://cdn-1.webcatalog.io/catalog/portugol-webstudio/portugol-webstudio-icon-unplated.png?v=1714775521095" style="width: 70px; height:70px;">
 </div>
 <br>
@@ -80,4 +89,6 @@ ________________________________________________________________________________
 <h4>🇹​🇭​🇪​ 🇴​🇳​🇱​🇾​ 🇼​🇦​🇾​ 🇾​🇴​🇺​ 🇨​🇦​🇳​ 🇨​🇴​🇳​🇹​🇮​🇳​🇺​🇪​, 🇮​🇸​ 🇹​🇭​🇪​ 🇼​🇦​🇾​ 🇴​🇫​ 🇾​🇴​🇺​🇷​ 🇭​🇪​🇦​🇷​🇹​</h4>
 <h4>. . .</h4>
 </div>
-
+  
+</body>
+</html>
