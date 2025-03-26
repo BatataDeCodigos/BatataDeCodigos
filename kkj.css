@@ -123,10 +123,9 @@ article h4{
 }
  
 
-#icons {
+#icons img{
 
     display: list-item;
-    display: contents;
     
 
 }
