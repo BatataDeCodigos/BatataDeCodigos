@@ -69,8 +69,14 @@ Tools and languages
 </h3>
 <div class="funcionapngdokrl"">
 <div id="icons">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px;">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
+<p>
+  Nome
+</p>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px;">
+<p>
+  Nome
+</p>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <p>
   Nome
