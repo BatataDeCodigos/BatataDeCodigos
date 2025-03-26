@@ -69,18 +69,24 @@ Tools and languages
 </h3>
 <div class="funcionapngdokrl"">
 <div id="icons">
+<div class="html">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <p>
-  Nome
+  HTML
 </p>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px;">
+</div>
+<div class="css">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <p>
-  Nome
+  CSS
 </p>
+</div>
+<div class="jv">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <p>
-  Nome
+  JAVA
 </p>
+</div>
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <p>
   Nome
