@@ -63,8 +63,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="teixto" style="float: left;">
-<p>
+<div class="teixto">
+<p align="center">
   Tools and languages
 <span>
 </span>
