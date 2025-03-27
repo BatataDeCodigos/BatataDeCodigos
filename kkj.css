@@ -137,6 +137,12 @@ article h4{
 
 }
 
+.teixto span{
+
+    position: relative;
+
+}
+
 .teixto span::before{
 
     content: "";
