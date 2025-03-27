@@ -64,11 +64,11 @@ ________________________________________________________________________________
 <br>
 <br>
 <div class="teixto" align="center">
-<h3>
+<p style="font-size: 30px; ">
   Tools
 <span>
 </span>
-</h3>
+</p>
 </div>
 <p align="center">____________</p>
 <div class="funcionapngdokrl"">
