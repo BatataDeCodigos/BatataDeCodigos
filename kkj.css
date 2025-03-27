@@ -154,6 +154,7 @@ article h4{
 .teixto span::after{
 
     content: "";
+    position: absolute;
     height: 100%;
     border: 2px solid blueviolet;
     right: -10px;
