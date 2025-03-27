@@ -65,7 +65,7 @@ ________________________________________________________________________________
 <br>
 <div class="teixto" align="center">
 <p style="font-size: 30px; ">
-  Tools
+  Tools and languages
 <span>
 </span>
 </p>
