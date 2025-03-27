@@ -64,7 +64,7 @@ ________________________________________________________________________________
 <br>
 <br>
 <div class="teixto" align="center">
-<p style="font-size: 30px; ">
+<p style="font-size: 60px; font-weight: 400;">
   Tools and languages
 <span>
 </span>
