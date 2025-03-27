@@ -71,7 +71,7 @@ Tools and languages
 <div id="icons">
 <div class="html">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
-<p>
+<p style="display:list-item;">
   HTML
   (specializing)
 </p>
