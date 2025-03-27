@@ -63,10 +63,13 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<h3  align="center">
-Tools and languages
-  <p>____________</p>
+<div class="teixto" align="center">
+<h3>
+<span>
+</span>
 </h3>
+</div>
+<p align="center">____________</p>
 <div class="funcionapngdokrl"">
 <div id="icons">
 <div class="html" style="display: contents; display: list-item;">

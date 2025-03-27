@@ -136,3 +136,26 @@ article h4{
     list-style: none;
 
 }
+
+.teixto span::before{
+
+    content: "";
+    color: blueviolet;
+
+
+}
+
+@keyframes palavras {
+
+    0%,20%{
+
+        content: "Tools";
+
+    }
+    21%,40%{
+
+        content: " and languages";
+
+    }
+
+}
