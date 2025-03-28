@@ -126,12 +126,13 @@ article h4{
 #icons{
 
     display: list-item;
+    display: contents;
+    position: absolute;
 
 }
 
 #icons img{
 
-    float: left;
     display: list-item;
     list-style: none;
 

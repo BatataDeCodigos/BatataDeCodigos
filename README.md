@@ -63,12 +63,12 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="teixto">
-<p align="center">
+<div class="teixto" style="font-size: 65px;">
+<h3 align="center">
   Tools and languages
 <span>
 </span>
-</p>
+</h3>
 </div>
 <p align="center">____________</p>
 <div class="funcionapngdokrl"">
