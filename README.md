@@ -71,8 +71,8 @@ ________________________________________________________________________________
 </h3>
 </div>
 <p align="center">____________</p>
-<div class="funcionapngdokrl" style="display: flex; text-align: center;">
-<div id="icons">
+<div class="funcionapngdokrl">
+<div id="icons" >
 <div class="html" style="display: contents; display: list-item;">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
