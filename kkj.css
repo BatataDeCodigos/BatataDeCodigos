@@ -125,16 +125,14 @@ article h4{
 
 #icons{
 
-    display: list-item;
-    display: contents;
-    text-align: center;
-
 }
 
 #icons img{
 
     display: list-item;
     list-style: none;
+    display: contents;
+    text-align: center;
 
 }
 
