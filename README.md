@@ -6,15 +6,17 @@
   <link rel="stylesheet" href="kkj.css">
 </head>
 <body>
-<h1 align="center"> ☁ Theres a shadow on the wall, stay calm. ☁ </h1>
+<h1 align="center"> I'm different than you think </h1>
 <div id=biog>
 <br>
 <br>
 <br>
 <p align="center">17 to 18 y</p>
 <p align="center" style="font-size:20px;">❤️‍🩹</p>
+  <p align="center">______________</p>
 <p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
 <p align="center" style="font-size:20px;">📌</p>
+  <p align="center">______________</p>
 <p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
   <p align="center" style="font-size:20px;">⏰</p>
 </div>
@@ -39,7 +41,7 @@ ________________________________________________________________________________
 <br>
 <div class="ProjectsIveWorkedOn" align="center">
   <h3>
-    The projects I've participating
+    The projects, the ones.
     <p>________________________________________________________</p>
   </h3>
   <div id="bordinha">
@@ -66,6 +68,7 @@ ________________________________________________________________________________
 <div class="teixto" style="font-size: 65px;">
 <h3 align="center">
   Tools and languages
+ (I'm edditing it)
 <span>
 </span>
 </h3>
