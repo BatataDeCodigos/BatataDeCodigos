@@ -77,6 +77,7 @@ ________________________________________________________________________________
 <p align="center">____________</p>
 <div class="funcionapngdokrl">
 <div id="icons">
+  <div class="hcj" style="text-align: center;">
 <div class="html">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
@@ -97,6 +98,8 @@ ________________________________________________________________________________
 </div>
 <div class="jv">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
+</div>
+<div class="pjb" style="text-align: center;">
 <h3>
   PYTHON
 </h3>
@@ -119,6 +122,8 @@ ________________________________________________________________________________
   (specializing)
 </p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
+</div>
+<div class="vum" style="text-align: center;">
 <h3>
   VScode
 </h3>
@@ -140,6 +145,8 @@ ________________________________________________________________________________
   (learning)
 </p>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
+</div>
+<div class="twp" style="text-align: center;">
 <h3>
   Microsoft Teams
 </h3>
@@ -160,6 +167,7 @@ ________________________________________________________________________________
   <p>
   (Have a time that I don't touch on it)
 </p>
+</div>
 </div>
 </div>
 <br>
