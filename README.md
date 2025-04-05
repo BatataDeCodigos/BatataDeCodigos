@@ -29,7 +29,6 @@ ________________________________________________________________________________
 <br>
 <p align="center">
 <img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300">
-<img src="https://i.pinimg.com/originals/a4/50/e9/a450e9f0f0949bc95f4c32bfef3cbbfe.gif"  height="200" width="300">
 <img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300">
 </p>
 <br>
