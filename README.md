@@ -99,7 +99,7 @@ ________________________________________________________________________________
 <div class="jv">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
-<div class="pjb" style="text-align: center;">
+<div class="pjb" align="center">
 <h3>
   PYTHON
 </h3>
@@ -123,7 +123,7 @@ ________________________________________________________________________________
 </p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
-<div class="vum" style="text-align: center;">
+<div class="vum" align="center">
 <h3>
   VScode
 </h3>
@@ -146,7 +146,7 @@ ________________________________________________________________________________
 </p>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
-<div class="twp" style="text-align: center;">
+<div class="twp" align="center">
 <h3>
   Microsoft Teams
 </h3>
