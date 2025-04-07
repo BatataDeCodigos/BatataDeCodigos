@@ -77,7 +77,7 @@ ________________________________________________________________________________
 <p align="center">____________</p>
 <div class="funcionapngdokrl">
 <div id="icons">
-  <div class="hcj" style="text-align: center;">
+  <div class="hcj" align="center">
 <div class="html">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
