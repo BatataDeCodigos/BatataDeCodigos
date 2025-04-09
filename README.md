@@ -29,7 +29,7 @@ ________________________________________________________________________________
 <br>
 <p align="center">
 <img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300"">
-<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" style="margin-left: 20px;>
+<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" style="padding-left: 40px;">
 </p>
 <br>
 ______________________________________________________________________________________________________________________________________________
