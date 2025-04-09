@@ -28,8 +28,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <p align="center">
-<img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300">
-<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300">
+<img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300"">
+<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" style="margin-left: 20px;>
 </p>
 <br>
 ______________________________________________________________________________________________________________________________________________
@@ -66,12 +66,10 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="teixto" style="font-size: 65px;">
-<h3 align="center">
+<div class="teixto">
+<h3 align="center" style="font-size: 65px;">
   Tools and languages
  (I'm edditing it)
-<span>
-</span>
 </h3>
 </div>
 <p align="center">____________</p>
