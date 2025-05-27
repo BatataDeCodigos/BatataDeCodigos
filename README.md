@@ -11,12 +11,12 @@
 <br>
 <br>
 <br>
-<p align="center">17 to 18 y</p>
+<p align="center">I'm 18 years old</p>
 <p align="center" style="font-size:20px;">❤️‍🩹</p>
-  <p align="center">______________</p>
+  <p align="center">______________________</p>
 <p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
 <p align="center" style="font-size:20px;">📌</p>
-  <p align="center">______________</p>
+  <p align="center">______________________</p>
 <p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
   <p align="center" style="font-size:20px;">⏰</p>
 </div>
