@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="kkj.css">
-</head>
-<body>
-<h1 align="center"> I'm different than you think </h1>
-<div id=biog>
+<h1 align="right">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=50&duration=4000&pause=100&color=C840E3&width=500&height=80&lines=%F0%9D%98%8F%F0%9D%98%A6%F0%9D%98%AD%F0%9D%98%AD%F0%9D%98%B0_%F0%9D%98%B4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A8%F0%9D%98%A6_%F0%9D%98%B8%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A5;%F0%9D%98%99%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A3%F0%9D%98%A6%F0%9D%98%B3;%F0%9D%98%8D%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%A6%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4_%F0%9D%98%A2%F0%9D%98%B3%F0%9D%98%A6_%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%A6%F0%9D%98%B7%F0%9D%98%A6%F0%9D%98%B3;.+.+.">
+</h1>
 <br>
 <br>
 <br>
@@ -19,7 +12,7 @@
   <p align="center">______________________</p>
 <p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
   <p align="center" style="font-size:20px;">⏰</p>
-</div>
+
 <br>
 <br>
 <br>
@@ -28,8 +21,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <p align="center">
-<img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300">
-<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300">
+<img src="" height="200" width="300">
+<img src="" height="200" width="300">
 </p>
 <br>
 ______________________________________________________________________________________________________________________________________________
@@ -188,6 +181,3 @@ ________________________________________________________________________________
 <h4>🇹​🇭​🇪​ 🇴​🇳​🇱​🇾​ 🇼​🇦​🇾​ 🇾​🇴​🇺​ 🇨​🇦​🇳​ 🇨​🇴​🇳​🇹​🇮​🇳​🇺​🇪​, 🇮​🇸​ 🇹​🇭​🇪​ 🇼​🇦​🇾​ 🇴​🇫​ 🇾​🇴​🇺​🇷​ 🇭​🇪​🇦​🇷​🇹​</h4>
 <h4>. . .</h4>
 </div>
-  
-</body>
-</html>
