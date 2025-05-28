@@ -1,4 +1,4 @@
-<h1 align="right">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=50&duration=4000&pause=100&color=C840E3&width=500&height=80&lines=%F0%9D%98%8F%F0%9D%98%A6%F0%9D%98%AD%F0%9D%98%AD%F0%9D%98%B0_%F0%9D%98%B4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A8%F0%9D%98%A6_%F0%9D%98%B8%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A5;%F0%9D%98%99%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A3%F0%9D%98%A6%F0%9D%98%B3;%F0%9D%98%8D%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%A6%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4_%F0%9D%98%A2%F0%9D%98%B3%F0%9D%98%A6_%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%A6%F0%9D%98%B7%F0%9D%98%A6%F0%9D%98%B3;.+.+.">
 </h1>
 <br>
