@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="kkj.css">
-</head>
-<body>
-<h1 align="center"> I'm different than you think </h1>
-<div id=biog>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=50&duration=4000&pause=100&color=C840E3&width=500&height=80&lines=%F0%9D%98%8F%F0%9D%98%A6%F0%9D%98%AD%F0%9D%98%AD%F0%9D%98%B0_%F0%9D%98%B4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%A8%F0%9D%98%A6_%F0%9D%98%B8%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%AD%F0%9D%98%A5;%F0%9D%98%99%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%AE%F0%9D%98%A3%F0%9D%98%A6%F0%9D%98%B3;%F0%9D%98%8D%F0%9D%98%B3%F0%9D%98%AA%F0%9D%98%A6%F0%9D%98%AF%F0%9D%98%A5%F0%9D%98%B4_%F0%9D%98%A2%F0%9D%98%B3%F0%9D%98%A6_%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%A6%F0%9D%98%B7%F0%9D%98%A6%F0%9D%98%B3;.+.+.">
+</h1>
 <br>
 <br>
 <br>
-<p align="center">17 to 18 y</p>
-<p align="center" style="font-size:20px;">❤️‍🩹</p>
-  <p align="center">______________</p>
-<p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
-<p align="center" style="font-size:20px;">📌</p>
-  <p align="center">______________</p>
-<p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
-  <p align="center" style="font-size:20px;">⏰</p>
-</div>
+<p align="left">| ❤ I'm <b>18</b> years old</p>
+  <p align="left">______________________</p>
+<p align="left">| 📌 I'm a student of SENAC RS distrito criativo in Brazil.</p>
+  <p align="left">______________________</p>
+<p align="left">| ⏰ I like so much HTML and CSS, but I'm <b>still learning</b> it to be a <b>profissional.</b> </p>
+
 <br>
 <br>
 <br>
@@ -28,8 +18,14 @@ ________________________________________________________________________________
 <br>
 <br>
 <p align="center">
+
 <img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300"">
-<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" style="padding-left: 40px;">
+<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=800&color=A30000&width=250&height=80&lines=they're+the+beginning;they+were+used">
+<img src="https://github.com/user-attachments/assets/2bf5102a-e4df-438b-befa-ffe27246cedf">
+<img src="https://github.com/user-attachments/assets/40837b21-2e27-4392-a49c-2134c382417d" height="180">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=800&color=A30000&width=280&height=80&lines=they+were+just+robots;they+made+everyone+happy">
+
 </p>
 <br>
 ______________________________________________________________________________________________________________________________________________
@@ -40,13 +36,12 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="ProjectsIveWorkedOn" align="center">
-  <h3>
-    The projects, the ones.
-    <p>________________________________________________________</p>
-  </h3>
+<div class="ProjectsIveWorkedOn" align="left">
+  <h2>
+    THE PROJECTS 
+  </h2>
   <div id="bordinha">
-    <p> AR project: Aumented Reality with accessibility for disabled people. (2024) </p>
+    <p> <mark>AR project:</mark> Aumented Reality with accessibility for disabled people. (2024) </p>
    <p> Site for physical education (2023) </p>
     <p> Infernal's website (2023 - ????/ And it's for my internet friends) </p>
    <p> My own site (I'll never finish it...) </p>
@@ -56,8 +51,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <div align="center"> <img src="https://github.com/BatataDeCodigos/BatataDeCodigos/blob/main/text%20(1).gif?raw=true" style="width:470px; height:30px; margin-bottom:20px;">
-  <img src="https://media0.giphy.com/media/U7VI2RFA6VcH2Gm7H9/giphy.gif?cid=6c09b9526y42pqyamin7xx6x2ytnokjew3z89ovmw95az3sy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-top:25px; height: 70px; width:70px;">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/kuromi-gif-4.gif" style="margin-top:25px; height: 70px; width:70px;">
+  <img src="https://media0.giphy.com/media/U7VI2RFA6VcH2Gm7H9/giphy.gif?cid=6c09b9526y42pqyamin7xx6x2ytnokjew3z89ovmw95az3sy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-top:15px; height: 100px; width:100px;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/kuromi-gif-4.gif" style="margin-top:25px; height: 100px; width:100px;">
 </div>
 
 <br>
@@ -66,17 +61,26 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
+
 <div class="teixto">
 <h3 align="center" style="font-size: 65px;">
   Tools and languages
  (I'm edditing it)
 </h3>
+
+<h2 align="center">
+ 
+</h2>
 </div>
-<p align="center">____________</p>
-<div class="funcionapngdokrl">
+
+
 <div id="icons">
+
   <div class="hcj" align="right" style="display: flex; float: left;">
 <div class="html">
+
+  <div class="hcj">
+
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   HTML
@@ -85,7 +89,6 @@ ________________________________________________________________________________
   (specializing)
 </p>
 </div>
-<div class="css">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   CSS
@@ -94,7 +97,6 @@ ________________________________________________________________________________
   (specializing)
 </p>
 </div>
-<div class="jv">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
 <div class="pjb" align="center">
@@ -207,6 +209,3 @@ I'm currently studiyng
 <h4>🇹​🇭​🇪​ 🇴​🇳​🇱​🇾​ 🇼​🇦​🇾​ 🇾​🇴​🇺​ 🇨​🇦​🇳​ 🇨​🇴​🇳​🇹​🇮​🇳​🇺​🇪​, 🇮​🇸​ 🇹​🇭​🇪​ 🇼​🇦​🇾​ 🇴​🇫​ 🇾​🇴​🇺​🇷​ 🇭​🇪​🇦​🇷​🇹​</h4>
 <h4>. . .</h4>
 </div>
-  
-</body>
-</html>
