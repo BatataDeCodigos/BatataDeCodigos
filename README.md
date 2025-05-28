@@ -19,8 +19,6 @@ ________________________________________________________________________________
 <br>
 <p align="center">
 
-<img src="https://i.pinimg.com/originals/e8/df/68/e8df683a29a90dcbb56e6d0ff86016b8.gif" height="200" width="300"">
-<img src="https://64.media.tumblr.com/56f23037f958ac89bbb999c206787258/tumblr_pri2vfEUxN1uy5c6vo1_500.gifv" height="200" width="300" 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=800&color=A30000&width=250&height=80&lines=they're+the+beginning;they+were+used">
 <img src="https://github.com/user-attachments/assets/2bf5102a-e4df-438b-befa-ffe27246cedf">
 <img src="https://github.com/user-attachments/assets/40837b21-2e27-4392-a49c-2134c382417d" height="180">
