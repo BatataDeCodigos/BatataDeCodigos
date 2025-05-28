@@ -4,14 +4,11 @@
 <br>
 <br>
 <br>
-<p align="center">I'm 18 years old</p>
-<p align="center" style="font-size:20px;">❤️‍🩹</p>
-  <p align="center">______________________</p>
-<p align="center">I'm a student of SENAC RS distrito criativo in Brazil.</p>
-<p align="center" style="font-size:20px;">📌</p>
-  <p align="center">______________________</p>
-<p align="center">I like so much HTML and CSS, but I'm still learning it to be a profissional. </p>
-  <p align="center" style="font-size:20px;">⏰</p>
+<p align="left">| ❤ I'm <b>18</b> years old</p>
+  <p align="left">______________________</p>
+<p align="left">| 📌 I'm a student of SENAC RS distrito criativo in Brazil.</p>
+  <p align="left">______________________</p>
+<p align="left">| ⏰ I like so much HTML and CSS, but I'm <b>still learning</b> it to be a <b>profissional.</b> </p>
 
 <br>
 <br>
@@ -21,8 +18,10 @@ ________________________________________________________________________________
 <br>
 <br>
 <p align="center">
-<img src="" height="200" width="300">
-<img src="" height="200" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=800&color=A30000&width=250&height=80&lines=they're+the+beginning;they+were+used">
+<img src="https://github.com/user-attachments/assets/2bf5102a-e4df-438b-befa-ffe27246cedf">
+<img src="https://github.com/user-attachments/assets/40837b21-2e27-4392-a49c-2134c382417d" height="180">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=3500&pause=800&color=A30000&width=280&height=80&lines=they+were+just+robots;they+made+everyone+happy">
 </p>
 <br>
 ______________________________________________________________________________________________________________________________________________
@@ -33,13 +32,12 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="ProjectsIveWorkedOn" align="center">
-  <h3>
-    The projects, the ones.
-    <p>________________________________________________________</p>
-  </h3>
+<div class="ProjectsIveWorkedOn" align="left">
+  <h2>
+    THE PROJECTS 
+  </h2>
   <div id="bordinha">
-    <p> AR project: Aumented Reality with accessibility for disabled people. (2024) </p>
+    <p> <mark>AR project:</mark> Aumented Reality with accessibility for disabled people. (2024) </p>
    <p> Site for physical education (2023) </p>
     <p> Infernal's website (2023 - ????/ And it's for my internet friends) </p>
    <p> My own site (I'll never finish it...) </p>
@@ -59,19 +57,14 @@ ________________________________________________________________________________
 <br>
 <br>
 <br>
-<div class="teixto" style="font-size: 65px;">
-<h3 align="center">
-  Tools and languages
- (I'm edditing it)
-<span>
-</span>
-</h3>
+<h2 align="center">
+ 
+</h2>
 </div>
-<p align="center">____________</p>
-<div class="funcionapngdokrl">
+
+
 <div id="icons">
-  <div class="hcj" style="text-align: center;">
-<div class="html">
+  <div class="hcj">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   HTML
@@ -80,7 +73,6 @@ ________________________________________________________________________________
   (specializing)
 </p>
 </div>
-<div class="css">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   CSS
@@ -89,7 +81,6 @@ ________________________________________________________________________________
   (specializing)
 </p>
 </div>
-<div class="jv">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
 <div class="pjb" style="text-align: center;">
