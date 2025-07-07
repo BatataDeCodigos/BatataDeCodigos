@@ -75,7 +75,6 @@ ________________________________________________________________________________
 <div id="icons">
 
   <div class="hcj" align="right" style="display: flex; float: left;">
-
   <div class="hcj">
 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
@@ -106,6 +105,13 @@ ________________________________________________________________________________
   <p>
   (progress)
 </p>
+<img src="https://cdn-1.webcatalog.io/catalog/portugol-webstudio/portugol-webstudio-icon-unplated.png?v=1714775521095" style="width: 70px; height:70px; display: flex; margin-left: ;">
+<h3>
+  Portugol
+</h3>
+  <p>
+  (Have a time that I don't touch on it)
+</p>
 </div>
 </div>
 <div class="pjb" align="center">
@@ -116,10 +122,7 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
-</div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
-</div>
-<div class="vum" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   VScode
 </h3>
@@ -140,8 +143,9 @@ ________________________________________________________________________________
   <p>
   (learning)
 </p>
-<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
+<div class="vum" align="center">
+<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <div class="twp" align="center">
 <h3>
   Microsoft Teams
@@ -156,13 +160,7 @@ ________________________________________________________________________________
   <p>
   (Never call me)
 </p>
-<img src="https://cdn-1.webcatalog.io/catalog/portugol-webstudio/portugol-webstudio-icon-unplated.png?v=1714775521095" style="width: 70px; height:70px; display: flex; margin-left: ;">
-<h3>
-  Portugol
-</h3>
-  <p>
-  (Have a time that I don't touch on it)
-</p>
+</div>
 </div>
 </div>
 </div>
@@ -179,8 +177,8 @@ I'm currently studiyng
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BatataDeCodigos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BatataDeCodigos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BatataDeCodigos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=BatataDeCodigos&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BatataDeCodigos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
