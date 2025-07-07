@@ -114,7 +114,7 @@ ________________________________________________________________________________
 </p>
 </div>
 </div>
-<div class="pjb" align="center">
+<div class="pjb">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Blender
