@@ -104,7 +104,6 @@ ________________________________________________________________________________
   <p>
   (beginner)
 </p>
-</div>
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Javascript
@@ -119,6 +118,7 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
+</div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 </div>
 <div class="vum" align="center">
