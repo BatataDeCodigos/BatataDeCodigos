@@ -141,6 +141,7 @@ article h4{
 
 .pjb{
 
-    
+    display: flex;
+    align-content: center;
 
 }
