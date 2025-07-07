@@ -144,6 +144,7 @@ article h4{
     display: flex;
     align-items: center;
     float: left;
-    margin-left: 30px;
+    margin-left: 50px;
+    text-align: left;
 
 }
