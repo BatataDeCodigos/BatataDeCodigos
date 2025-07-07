@@ -75,7 +75,6 @@ ________________________________________________________________________________
 <div id="icons">
 
   <div class="hcj" align="right" style="display: flex; float: left;">
-<div class="html">
 
   <div class="hcj">
 
@@ -86,7 +85,6 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
-</div>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   CSS
@@ -94,9 +92,6 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
-</div>
-</div>
-<div class="pjb" align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   PYTHON
@@ -111,6 +106,9 @@ ________________________________________________________________________________
   <p>
   (progress)
 </p>
+</div>
+</div>
+<div class="pjb" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Blender
