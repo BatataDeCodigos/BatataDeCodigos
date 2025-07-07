@@ -146,7 +146,6 @@ ________________________________________________________________________________
 </div>
 <div class="vum" align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
-<div class="twp" align="center">
 <h3>
   Microsoft Teams
 </h3>
