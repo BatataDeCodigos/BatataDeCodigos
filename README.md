@@ -74,9 +74,9 @@ ________________________________________________________________________________
 
 <div id="icons">
 
-  <div class="hcj" align="right" style="display: flex; float: left;">
   <div class="hcj">
 
+    <div class="html">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   HTML
@@ -84,6 +84,8 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
+</div>
+<div class="css">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   CSS
@@ -91,6 +93,8 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
+</div>
+<div class="pyt">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   PYTHON
@@ -98,6 +102,8 @@ ________________________________________________________________________________
   <p>
   (beginner)
 </p>
+</div>
+<div class="jav">
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Javascript
@@ -105,6 +111,8 @@ ________________________________________________________________________________
   <p>
   (progress)
 </p>
+</div>
+<div class="Por">
 <img src="https://cdn-1.webcatalog.io/catalog/portugol-webstudio/portugol-webstudio-icon-unplated.png?v=1714775521095" style="width: 70px; height:70px; display: flex; margin-left: ;">
 <h3>
   Portugol
@@ -114,7 +122,9 @@ ________________________________________________________________________________
 </p>
 </div>
 </div>
+</div>
 <div class="pjb">
+  <div class="Ble">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" style="width: 90px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Blender
@@ -122,6 +132,8 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
+</div>
+<div class="vsc">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   VScode
@@ -129,6 +141,8 @@ ________________________________________________________________________________
   <p>
   (specializing)
 </p>
+</div>
+<div class="uni">
 <img src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Unity
@@ -136,6 +150,8 @@ ________________________________________________________________________________
   <p>
   (improving)
 </p>
+</div>
+<div class="mys">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   MySQL
@@ -144,7 +160,9 @@ ________________________________________________________________________________
   (learning)
 </p>
 </div>
-<div class="vum" align="center">
+</div>
+<div class="vum">
+  <div class="mit">
 <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   Microsoft Teams
@@ -152,6 +170,8 @@ ________________________________________________________________________________
   <p>
   (I'm fine)
 </p>
+</div>
+<div class="wtp">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" style="width: 70px; height:70px; display: flex; margin-left: 70px;">
 <h3>
   WhatsApp
@@ -159,6 +179,7 @@ ________________________________________________________________________________
   <p>
   (Never call me)
 </p>
+</div>
 </div>
 </div>
 </div>

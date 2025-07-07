@@ -139,10 +139,11 @@ article h4{
 
 /*Classes*/
 
-.pjb{
+.hcj{
 
     display: flex;
+    align-items: center;
     float: left;
-    margin-left: 50px;
+    margin-left: 30px;
 
 }
